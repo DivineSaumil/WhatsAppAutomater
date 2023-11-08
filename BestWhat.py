@@ -1,8 +1,11 @@
 import pyautogui
 import time
 import subprocess
+from ContactsExcelToPy import extract_telupdated_column
 
-phone_numbers = [""]
+excel_file_path = r'C:\Users\Ajay Kumar\Desktop\Trash\contacts-all - Copy.xlsx'
+
+phone_numbers = extract_telupdated_column(excel_file_path)
 
 message = "Hello, this is a test message, testing the WhatsApp code."
 
