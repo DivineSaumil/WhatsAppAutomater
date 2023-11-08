@@ -1,4 +1,5 @@
 import pyautogui
+import time
 import subprocess
 
 phone_numbers = [""]
