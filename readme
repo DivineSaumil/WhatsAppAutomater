@@ -1,0 +1,6 @@
+The BestWhat.py is the file used to automate sending messages on whatsapp. Use the coordinates.py to get the coordinate
+of clicks on your screen(Currently configured according to 1920 x 1080 display on WhatsApp Desktop Version 2.2342.8.0)
+Add the list of phone numbers without country codes or '-' to use it.
+
+SuprabhatSpam.py is a average spam code that depends on user to select a chat to send messages on and sends the hindi
+shayari format Good Morning messages as our venerable elders taught us to do every morning.
